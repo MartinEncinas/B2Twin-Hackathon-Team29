@@ -1,4 +1,6 @@
 # B2Twin-Hackathon-Team29
+Setting up the environments:
+- Download all the packages in the requirements.txt.
 
 Steps to reproduce :
 1. Download files associated with the desert biome (Desert_CO2 and Desert_Temp_RH)
